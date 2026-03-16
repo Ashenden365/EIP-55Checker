@@ -1,0 +1,4 @@
+streamlit
+eth-utils
+eth-hash[pycryptodome]
+pytest
